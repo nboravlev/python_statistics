@@ -13,7 +13,7 @@
 
 -------
 
-### [Статистические методы]()
+### [Статистические методы](https://github.com/nboravlev/python_statistics/blob/main/HW_casestudy.ipynb)
 
 На примере исторических данных о продажах и оценках [видеоигр](https://raw.githubusercontent.com/obulygin/pyda_homeworks/master/stat_case_study/vgsales.csv) проводятся статистические исследования.
 
